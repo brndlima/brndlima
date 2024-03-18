@@ -1,0 +1,4 @@
+- 👋 Olá, mundo!
+- 👀 Meu nome é Brenda Lima, sou comunicologa e atualmente estou me aventurando no mundo dos códigos.
+- 🌱Atualmente estou estudando Javascript com foco em front-end.
+- ⚡ Te vejo por ai! 
